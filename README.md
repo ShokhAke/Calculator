@@ -1,4 +1,4 @@
-# Oclock
+# Calculator
 Simple Calculator made in Javascript
 
 - Html5
